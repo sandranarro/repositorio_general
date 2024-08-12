@@ -1,0 +1,1 @@
+onclick="document.getElementById('demo').innerHTML=Date()   (LENGUAJE JAVASCRIPT PA LA FECHA)
